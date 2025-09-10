@@ -67,6 +67,8 @@ body {
 
 .meals-list-item i {
   floar: right;
+  color: #1a1a1a;
+  padding-right: 20px;
 }
 
 .meals-list-item h1 {
