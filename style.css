@@ -55,12 +55,12 @@ body {
 
 /*============= HOME PAGE MENU ===============*/
 
-.meals-list a{
+.meals-list a {
   text-decoration: none;
               }
 
 .meals-list-item {
-  border: 5px solid #000000;
+  border: 5px solid #1a1a1a;
   margin: 10px;
   border-radius: 10px;
 }
