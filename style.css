@@ -62,7 +62,7 @@ body {
 .meals-list-item {
   border: 5px solid #1a1a1a;
   margin: 10px;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 
 .meals-list-item h1 {
@@ -91,7 +91,7 @@ body {
 .drinks-list-item {
   border: 5px solid #1a1a1a;
   margin: 10px;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 
 .drinks-list-item h1 {
@@ -119,7 +119,7 @@ body {
 .deserts-list-item {
   border: 5px solid #1a1a1a;
   margin: 10px;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 
 .deserts-list-item h1 {
