@@ -19,6 +19,15 @@ body {
 
 /*============= HOME MENU ===============*/
 
+#home-logo-img{
+  width: 50px;
+  display: block;
+  margin: auto;
+}
+
+
+/*============= HOME MENU ITEM ===============*/
+
 .home-menu-item{
   text-decoration: none;
   text-transform: uppercase;
