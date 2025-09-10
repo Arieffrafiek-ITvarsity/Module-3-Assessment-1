@@ -32,7 +32,7 @@ body {
   padding: 25px;
 }
 
-/*============= HOME MENU ITEM ===============*/
+/*============= HOME PAGE MENU ===============*/
 
 .home-menu-item{
   text-decoration: none;
@@ -51,7 +51,9 @@ body {
   
 }
 
-/*============= meals PAGE ===============*/
+/*============= HOME PAGE ===============*/
+
+/*============= HOME PAGE MENU ===============*/
 
 .meals-list a {
   text-decoration: none;
