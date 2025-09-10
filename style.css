@@ -17,7 +17,7 @@ body {
   background-size: cover;
 }
 
-/*============= HOME MENU ===============*/
+/*============= HOME PAGE ===============*/
 
 #home-logo-img{
   width: 50px;
@@ -50,3 +50,15 @@ body {
   border-radius: 10px;
   
 }
+
+/*============= meals PAGE ===============*/
+
+.meals-list a {
+  text-decoration: none;
+              }
+
+.meals-list-item {
+  border: 5px solid #1a1a1a;
+  margin: 10px;
+}
+  
