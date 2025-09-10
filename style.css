@@ -69,13 +69,13 @@ body {
   font-size: 20px;
   font-weight: bold;
   color: #1a1a1a;
-  padding-left: 10px;
+  padding-left: 20px;
 }
 .meals-list-item p {
   font-size: 15px;
   font-style: italic;
   color: #4d4d4d;
-  padding-left: 10px;
+  padding-left: 20px;
   margin-top: -7px;
 }
 
