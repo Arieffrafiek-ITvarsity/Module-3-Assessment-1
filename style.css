@@ -65,6 +65,10 @@ body {
   border-radius: 100px;
 }
 
+.meals-list-item i {
+  floar: right;
+}
+
 .meals-list-item h1 {
   font-size: 20px;
   font-weight: bold;
