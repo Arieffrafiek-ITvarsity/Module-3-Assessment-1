@@ -9,6 +9,10 @@ body {
   height: 100%;
 }
 
+.body-home {
+  background-image; url (images/background-01-port.png);
+}
+
 /*============= HOME MENU ===============*/
 
 .home-menu-item{
