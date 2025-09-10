@@ -11,6 +11,7 @@ body {
 
 .body-home {
   background-image; url (images/background-01-port.png);
+  background-position: center;
 }
 
 /*============= HOME MENU ===============*/
