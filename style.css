@@ -38,13 +38,11 @@ background-color: #2196f3;
 }
 .header i{
   float: left:
-  paddng: 17px 0px 0px 17px;
-  color: #ffffff;
+    color: #ffffff;
 }
 .header img {
   width: 150px;
   padding-top: 14px
-  padding-right: 25px;
 }
 
 /*============= HOME PAGE ===============*/
