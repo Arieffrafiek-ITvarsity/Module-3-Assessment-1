@@ -120,6 +120,9 @@ background-color: #2196f3;
 
 
 /*============= DRINKS PAGE ===============*/
+#drinks {
+  padding-top: 50px;
+}
 
 /*============= DRINKS PAGE MENU ===============*/
 
@@ -148,7 +151,9 @@ background-color: #2196f3;
 }
 
 /*============= DESERTS PAGE ===============*/
-
+#deserts {
+  padding-top: 50px;
+}
 /*============= DESERTS PAGE MENU ===============*/
 
 .deserts-list a {
