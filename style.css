@@ -81,9 +81,12 @@ background-color: #2196f3;
   
 }
 
-/*============= HOME PAGE ===============*/
+/*============= MEALS PAGE ===============*/
+#meals {
+  padding-top: 50px;
+}
 
-/*============= HOME PAGE MENU ===============*/
+/*============= MEALS PAGE MENU ===============*/
 
 .meals-list a {
   text-decoration: none;
@@ -116,9 +119,9 @@ background-color: #2196f3;
 }
 
 
-/*============= HOME PAGE ===============*/
+/*============= DRINKS PAGE ===============*/
 
-/*============= HOME PAGE MENU ===============*/
+/*============= DRINKS PAGE MENU ===============*/
 
 .drinks-list a {
   text-decoration: none;
@@ -144,9 +147,9 @@ background-color: #2196f3;
   margin-top: -7px;
 }
 
-/*============= HOME PAGE ===============*/
+/*============= DESERTS PAGE ===============*/
 
-/*============= HOME PAGE MENU ===============*/
+/*============= DESERTS PAGE MENU ===============*/
 
 .deserts-list a {
   text-decoration: none;
