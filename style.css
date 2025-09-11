@@ -36,9 +36,10 @@ background-color: #2196f3;
   overflow: hidden;
   text-align: center;
 }
-.header i{
+.header i {
   float: left:
-    color: #ffffff;
+  padding: 17px 0px 0px 17px;
+  color: #ffffff;
 }
 .header img {
   width: 150px;
