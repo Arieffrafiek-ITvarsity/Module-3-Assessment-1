@@ -31,6 +31,15 @@ input [type=checkbox] {
   display: none; 
 }
 
+input [type=checkbox] + label:before {
+  font-family: FontAwesome
+  display: inline-block;
+
+  content: "\f0c8";
+  letter-spacing: 10px;
+  font-size: 20px;
+}
+
 /*============= HEADER ===============*/
 .header {
 background-color: #2196f3;
