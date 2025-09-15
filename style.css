@@ -40,7 +40,7 @@ input [type=checkbox] + label:before {
   font-size: 20px;
 }
 input [type=checkbox]:ckecked + label:before {
-  content: "\f14a"
+  content: "\f14a";
 }
 
 
