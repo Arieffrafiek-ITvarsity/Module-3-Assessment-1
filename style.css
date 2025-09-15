@@ -142,5 +142,6 @@ background-color: #2196f3;
 }
 .recipe-details-info p {
   font-size: 13px;
+  display: inline-block;
 }
 
