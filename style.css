@@ -39,6 +39,10 @@ input [type=checkbox] + label:before {
   letter-spacing: 10px;
   font-size: 20px;
 }
+input [type=checkbox]:ckecked + label:before {
+  content: "\f14a"
+}
+
 
 /*============= HEADER ===============*/
 .header {
